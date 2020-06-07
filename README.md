@@ -6,9 +6,6 @@
 	:construction: NextLevelWeek 1.0 🚀 In progress.. :construction:
 </h4>
 <p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-<p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -68,7 +65,7 @@ From your command line:
 $ git clone https://github.com/Beretta350/Ecoleta
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd Ecoleta/backend
 
 # Install dependencies
 $ yarn install
@@ -92,7 +89,7 @@ $ yarn dev
 $ git clone https://github.com/Beretta350/Ecoleta
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd Ecoleta/frontent
 
 # Install dependencies
 $ yarn install
@@ -110,7 +107,7 @@ $ yarn start
 $ git clone https://github.com/Beretta350/Ecoleta
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd Ecoleta/mobile
 
 # Install dependencies
 $ yarn install
